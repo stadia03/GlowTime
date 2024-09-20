@@ -52,19 +52,7 @@ GlowTime is a modern and sleek social media web application where users can conn
    The front end is built using React.js to create a highly dynamic and responsive user experience.
 - ###### Material UI:
    Used for the design, offering pre-built, customizable components that follow modern design principles.
-- ###### Dependencies:
 
-  `@emotion/react`: Styling solution for React.
-  `@emotion/styled`: Styled components for React.
-  @mui/icons-material: Material-UI Icons.
-  @mui/material: Material-UI core components.
-  @reduxjs/toolkit: State management for React.
-  react-dropzone: File upload management.
-  redux-persist: Persist and rehydrate Redux store.
-  formik: Form management for React.
-  yup: Validation for forms.
-  react-router-dom: Client-side routing.
-  react-redux: Redux integration for React.
 ##### Backend
 - ###### Node.js & Express.js:
 
