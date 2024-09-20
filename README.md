@@ -36,6 +36,16 @@ GlowTime is a modern and sleek social media web application where users can conn
 
 
 
+####  Features
+
+------------
+
+
+
+
+
+
+
 ####Tech Stack
 
 ------------
