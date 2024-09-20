@@ -36,7 +36,7 @@ GlowTime is a modern and sleek social media web application where users can conn
 
 
 
-####  Features
+####  Tech Stack
 
 ------------
 
@@ -46,32 +46,28 @@ GlowTime is a modern and sleek social media web application where users can conn
 
 
 
-####Tech Stack
 
-------------
-
-
-#####Frontend
+##### Frontend
 - ###### React.js:
- The front end is built using React.js to create a highly dynamic and responsive user experience.
+   The front end is built using React.js to create a highly dynamic and responsive user experience.
 - ###### Material UI:
- Used for the design, offering pre-built, customizable components that follow modern design principles.
+   Used for the design, offering pre-built, customizable components that follow modern design principles.
 
-#####Backend
+##### Backend
 - ###### Node.js & Express.js:
 
- The server and API are built using Node.js and Express.js, ensuring fast and scalable performance.
+    The server and API are built using Node.js and Express.js, ensuring fast and scalable performance.
 - ###### MongoDB:
-Data is managed using MongoDB, a NoSQL database offering flexibility in storing user data and posts.
+    Data is managed using MongoDB, a NoSQL database offering flexibility in storing user data and posts.
 
 ##### Authentication
 - ###### JWT (JSON Web Tokens):
- Implemented for user authentication, ensuring secure login and session management.
+    Implemented for user authentication, ensuring secure login and session management.
 
 ------------
 
 
-####Installation
+#### Installation
 
 
 ##### 1.Clone the repository:
