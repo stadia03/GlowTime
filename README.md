@@ -13,25 +13,25 @@ GlowTime is a modern and sleek social media web application where users can conn
 
 - ##### Authentication:
 
- Users can register and login using JWT authentication for secure access.
+  Users can register and login using JWT authentication for secure access.
 - ##### Beautiful UI:
 
- GlowTime utilizes Material UI Design for a clean, responsive, and aesthetic user interface.
+  GlowTime utilizes Material UI Design for a clean, responsive, and aesthetic user interface.
 - ##### Post Creation:
 
- Users can post images or text content and view posts shared by their friends.
+  Users can post images or text content and view posts shared by their friends.
 - ##### Friend Management:
 
- Add, remove, or view friends. Explore their profiles and friend lists.
+  Add, remove, or view friends. Explore their profiles and friend lists.
 - ##### Interactive Features:
 
- Like and comment on other users’ posts to stay connected.
+  Like and comment on other users’ posts to stay connected.
 - ##### Dark/Light Mode:
 
- Switch between light and dark themes for a personalized user experience.
+  Switch between light and dark themes for a personalized user experience.
 - #####  Advertisement Banner:
 
- Monetize your app with a dedicated advertisement banner, displayed on the right side.
+  Monetize your app with a dedicated advertisement banner, displayed on the right side.
 
 ####Tech Stack
 
